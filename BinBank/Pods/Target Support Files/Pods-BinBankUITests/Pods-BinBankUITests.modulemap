@@ -1,0 +1,6 @@
+framework module Pods_BinBankUITests {
+  umbrella header "Pods-BinBankUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
